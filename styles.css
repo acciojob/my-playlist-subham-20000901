@@ -2,7 +2,11 @@
 body{
 	background-color: rgb(204, 204, 204);
 }
+a{
+	text-decoration-line:none;
+}
 li{
+	list-style-type:none;
 	font-weight:20px;
 	font-size:30px;
 }
@@ -22,7 +26,7 @@ li{
 	border-radius:10px;
 	width:600px;
 	height:600px;
-	margin-left:550px
+	margin-left:550px;
 }
 .player_one{
 	background-color: rgb(255, 255, 255);
